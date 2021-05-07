@@ -1,4 +1,5 @@
 # ignite-challenge1-list-filter
+Give a list, listFilter return the count of odd numbers
 
 ## Installation
 
